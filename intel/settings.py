@@ -31,7 +31,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
-    'amazing-data-hub-8e677.ondigitalocean.app'
+    'amazing-data-hub-8e677.ondigitalocean.app',
+    'www.amazingdatahubgh.com'
 ]
 
 
